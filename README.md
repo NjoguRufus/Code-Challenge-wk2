@@ -18,21 +18,20 @@ Then we return the modified strresult.
  This  method getsArray takes two parameters: arr(an  array of numbers), low & high(the range within which the random number should be generated). ItElementsAsString
 
  # getPrimes
+ It defines a function getArray(start, end) that generates an array of numbers between the start and end inputs. The function first initializes an empty array to hold the numbers in the specified range. It then employs a for loop to repeat through the numbers from start to end, pushing each number into the array. Finally, it returns the arr array containing all numbers from start to end inclusive.
 
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://github.com/NjoguRufus/Code-Challenge-wk2)
 
 ## Technologies used
-HTML
-CSS
 Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+https://github.com/NjoguRufus/Code-Challenge-wk2
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Copyright (c) 2024.
 
